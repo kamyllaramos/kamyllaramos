@@ -14,5 +14,6 @@
   <a href = "mailto:kamyllarayssa78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kamyllaramos-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+
+! [snake animation](https://github.com/kamyllaramos)/github-contribution-grid-snake.svg)
 </div>
-! [snake animation](https://github.com/kamyllaramos)
